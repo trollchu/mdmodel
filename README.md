@@ -1,2 +1,2 @@
 # mdmodel
-lammps-postprocess-tools
+md scripts by cqz
